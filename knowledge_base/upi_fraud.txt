@@ -1,0 +1,20 @@
+UPI PAYMENT FRAUD
+
+UPI fraud involves deceptive techniques used to steal money
+or obtain sensitive payment information through digital
+payment systems.
+
+Common indicators:
+- Requests to enter a UPI PIN to receive money.
+- Fake payment screenshots.
+- Unknown collect requests.
+- Fraudulent QR codes.
+- Impersonation of customer support representatives.
+
+Safety measures:
+- A UPI PIN is generally required to authorize sending money,
+  not to receive money.
+- Verify transactions in your official payment application.
+- Do not approve unknown collect requests.
+- Never share your UPI PIN.
+- Contact your bank through official channels.
