@@ -1,0 +1,17 @@
+OTP AND BANKING FRAUD
+
+OTP fraud involves social engineering techniques that
+persuade individuals to disclose one-time passwords.
+
+Common indicators:
+- Requests for OTP through calls or messages.
+- Claims that an account will be blocked immediately.
+- Fake bank representatives requesting credentials.
+- Unexpected account verification links.
+- Requests to disclose banking passwords.
+
+Safety measures:
+- Never share OTPs, PINs or passwords.
+- Do not trust unsolicited banking calls.
+- Verify account-related issues using official bank channels.
+- Report unauthorized transactions immediately.
