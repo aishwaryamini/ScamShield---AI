@@ -1,0 +1,18 @@
+PHISHING ATTACKS
+
+Phishing is a cyberattack in which attackers impersonate
+trusted organizations or individuals to steal sensitive
+information.
+
+Common indicators:
+- Unexpected messages containing suspicious links.
+- Requests for passwords or banking credentials.
+- Threatening account suspension.
+- Urgent requests to verify personal information.
+- Fake websites impersonating legitimate organizations.
+
+Safety measures:
+- Verify website addresses before entering information.
+- Avoid clicking unexpected links.
+- Never disclose passwords or OTPs.
+- Contact organizations through official channels.
